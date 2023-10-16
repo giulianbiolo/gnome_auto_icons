@@ -1,0 +1,18 @@
+apps_folder.svg: Applications, Apps, Applicazioni
+arduino_folder.svg: Arduino
+aws_folder.svg: AWS, Amazon Web Services, Amazon
+code_folder.svg: Code, Coding, Programming, Visual Studio, Visual Studio Code, VS Code, VSC, VSCode
+docker_folder.svg: Docker, Dockerfile, Compose
+figma_folder.svg: Figma
+games_folder.svg: Games, Gaming, Giochi, Videogames, Videogiochi
+github_folder.svg: GitHub, Git, GitLab, BitBucket
+markdown_folder.svg: Markdown, MKD, MD
+python_folder.svg: Python
+rust_folder.svg: Rust
+screenshot_folder.svg: Screenshots, Screenshot
+snap_folder.svg: Snap, Snapcraft
+telegram_folder.svg: Telegram, TG
+university_folder.svg: University, Università, Uni
+user_portfolio_folder.svg: Portfolio
+virtualbox_folder.svg: VirtualBox, VirtualBox Projects, Virtual Machines, VM, Macchine Virtuali
+wallpaper_folder.svg: Wallpapers, Wallpaper, Images, Photos, Pictures, Sfondi, Icone
